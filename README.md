@@ -21,7 +21,7 @@
 
 ## 🧭 Qué hago
 
-Coordino al equipo de desarrollo de **Cloud Tecnologías**, donde trabajo desde octubre de 2024, y construyo productos propios de la firma. Diseño sistemas con fundamentos de ingeniería y uso la IA generativa como parte del equipo, no como atajo.
+Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde octubre de 2024, y construyo productos propios de la firma. Diseño sistemas con fundamentos de ingeniería y uso la IA generativa como parte del equipo, no como atajo.
 
 | Producto | Qué es | Enlace |
 |:--|:--|:--|
