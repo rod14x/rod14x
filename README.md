@@ -5,7 +5,7 @@
 <br>
 
 ![Ubicación](https://img.shields.io/badge/Piura%2C_Per%C3%BA-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8)
-![Empresa](https://img.shields.io/badge/Cloud_Tecnolog%C3%ADas-0f172a?style=flat-square&logo=cloudflare&logoColor=38bdf8)
+![Empresa](https://img.shields.io/badge/Cloud_Tecnologies-0f172a?style=flat-square&logo=cloudflare&logoColor=38bdf8)
 ![UTP](https://img.shields.io/badge/Ing._de_Sistemas_·_UTP-0f172a?style=flat-square&logo=educative&logoColor=38bdf8)
 ![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-B1-0f172a?style=flat-square&logo=googletranslate&logoColor=38bdf8)
 
@@ -68,19 +68,6 @@ Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde o
 ## 🎓 Certificaciones
 
 - **EHPCC** · Certiprof · 2026–2029
-
----
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rod14x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a" alt="Estadísticas" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod14x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes" />
-
-<img src="https://streak-stats.demolab.com?user=rod14x&theme=tokyonight&hide_border=true&background=0f172a" alt="Racha" />
-
-</div>
 
 ---
 
