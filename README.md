@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=210&section=header&text=Rodrigo%20Cruz&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%C2%B7%20SaaS%20%26%20Ciberseguridad&descSize=20&descAlignY=60" alt="Rodrigo Cruz" />
-
-<a href="https://github.com/rod14x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&lines=Ingenier%C3%ADa+primero%3B+la+IA%2C+mi+equipo;Tech+Lead+en+Cloud+Tecnolog%C3%ADas;SaaS+%C2%B7+Ciberseguridad+%C2%B7+Infraestructura+TI" alt="Lema" />
-</a>
+<img src="./banner.svg" alt="Rodrigo Cruz, Tech Lead, SaaS y Ciberseguridad" width="100%" />
 
 <br>
 
@@ -25,7 +21,7 @@
 
 ## 🧭 Qué hago
 
-Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde octubre de 2024, y construyo productos propios de la firma. Diseño sistemas con fundamentos de ingeniería y uso la IA generativa como parte del equipo, no como atajo.
+Coordino al equipo de desarrollo de **Cloud Tecnologías**, donde trabajo desde octubre de 2024, y construyo productos propios de la firma. Diseño sistemas con fundamentos de ingeniería y uso la IA generativa como parte del equipo, no como atajo.
 
 | Producto | Qué es | Enlace |
 |:--|:--|:--|
@@ -100,7 +96,5 @@ Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde o
 ### 🤝 Hablemos
 
 Abierto a conversar sobre trabajo remoto part-time en desarrollo web y automatización.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=110&section=footer" alt="" />
 
 </div>
