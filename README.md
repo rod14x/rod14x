@@ -2,7 +2,7 @@
 
 # Hola, soy Rodrigo Cruz 👋
 
-**Tech Lead en Cloud Tecnologías · Desarrollo de soluciones SaaS y ciberseguridad**
+**Tech Lead en Cloud Tecnologies · Desarrollo de soluciones SaaS y ciberseguridad**
 Piura, Perú · Estudiante de Ingeniería de Sistemas (UTP)
 
 [Portafolio](https://rodrigo.cloud-tecnologies.pe) · [LinkedIn](https://www.linkedin.com/in/rodrigo-cruz-5a9988356/) · [Correo](mailto:german.rodrigo.cruz14@gmail.com)
