@@ -29,6 +29,8 @@ Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde o
 | 🌡️ **Termómetro** | Herramienta pública de la empresa | [termometro.cloud-tecnologies.pe](https://termometro.cloud-tecnologies.pe) |
 | 🏢 **ERP interno** | Sistema interno de la empresa, desarrollado con orquestación de agentes de IA | Privado |
 
+> El código de estos productos es privado, por eso en mi perfil público ves pocos repositorios. Con gusto muestro el trabajo en una conversación.
+
 ---
 
 ## 🧰 Stack
@@ -60,15 +62,6 @@ Coordino al equipo de desarrollo de **Cloud Tecnologies**, donde trabajo desde o
 ![Prompt engineering](https://img.shields.io/badge/Prompt_engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
----
-
-## 📌 Proyectos destacados
-
-| Repositorio | Descripción |
-|:--|:--|
-| [**rodrigo-cruz-portfolio**](https://github.com/rod14x/rodrigo-cruz-portfolio) | Mi portafolio profesional: desarrollo SaaS, liderazgo técnico, ciberseguridad e infraestructura TI. |
-| [**KeptAI**](https://github.com/rod14x/KeptAI) | Fidelización de clientes, manejo de cuentas por cobrar y centro de alertas. Proyecto del hackathon **Piura Innova 2026**. |
 
 ---
 
